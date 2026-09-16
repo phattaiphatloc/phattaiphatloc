@@ -1,0 +1,10 @@
+[
+  {"title":"What is DNS?","summary":"A domain does not contain a website. DNS tells a browser where that website can be found.","tags":["Technology"],"date":"16 Sep 2026"},
+  {"title":"GitHub Pages","summary":"A simple way to publish a static website directly from a GitHub repository.","tags":["Technology","Projects"],"date":"15 Sep 2026"},
+  {"title":"CNAME vs A Record","summary":"A CNAME points one name to another name; an A record points a name to an IPv4 address.","tags":["Technology"],"date":"15 Sep 2026"},
+  {"title":"Mendix Microflow","summary":"A visual server-side flow used to express application logic and orchestration in Mendix.","tags":["Technology","Work"],"date":"10 Sep 2026"},
+  {"title":"PDF Digital Signature","summary":"A digital signature helps verify integrity and signer identity; it is not the same thing as placing an image of a signature.","tags":["Technology","Work"],"date":"08 Sep 2026"},
+  {"title":"Weapon Rank in Fire Emblem","summary":"Weapon rank controls which weapons a unit is allowed to use; higher-rank weapons require enough proficiency.","tags":["Gaming"],"date":"03 Sep 2026"},
+  {"title":"Kodak Gold 200","summary":"A daylight-balanced ISO 200 color negative film often used for casual outdoor photography.","tags":["Photography"],"date":"27 Aug 2026"},
+  {"title":"HR Business Partner","summary":"A role focused on connecting people practices with business needs, usually working closely with managers and leaders.","tags":["Work"],"date":"20 Aug 2026"}
+]

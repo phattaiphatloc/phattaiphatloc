@@ -1,0 +1,14 @@
+{
+  "program":"Push / Pull / Legs",
+  "recent":[
+    {"date":"14 Sep 2026","name":"Push A","note":"Good energy · controlled reps"},
+    {"date":"12 Sep 2026","name":"Pull A","note":"Added reps on row"},
+    {"date":"10 Sep 2026","name":"Legs","note":"Kept RIR conservative"}
+  ],
+  "exercises":[
+    {"name":"Bench Press","current":"60 kg × 8","last":"57.5 kg × 8","sets":"3","rir":"2","trend":"↑"},
+    {"name":"Incline Dumbbell Press","current":"22 kg × 10","last":"22 kg × 9","sets":"3","rir":"1–2","trend":"↑"},
+    {"name":"Lat Pulldown","current":"55 kg × 10","last":"52.5 kg × 10","sets":"3","rir":"2","trend":"↑"},
+    {"name":"Romanian Deadlift","current":"70 kg × 8","last":"70 kg × 8","sets":"3","rir":"2","trend":"→"}
+  ]
+}

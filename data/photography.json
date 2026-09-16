@@ -1,0 +1,7 @@
+{
+  "rolls":[
+    {"film":"Kodak Gold 200","iso":200,"loaded":"August 2026","status":"In camera","camera":"35mm camera","framesUsed":18,"framesTotal":36},
+    {"film":"Kodak ColorPlus 200","iso":200,"loaded":"July 2026","status":"Waiting for development","camera":"35mm camera","framesUsed":36,"framesTotal":36},
+    {"film":"Fujifilm 400","iso":400,"loaded":"—","status":"Unopened","camera":"—","framesUsed":0,"framesTotal":36}
+  ]
+}
